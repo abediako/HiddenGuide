@@ -41,3 +41,6 @@ Thumbs.db
 # React Native Cache
 .watchmanconfig
 metro.config.js.cache
+
+# Expo Cache
+.expo/
